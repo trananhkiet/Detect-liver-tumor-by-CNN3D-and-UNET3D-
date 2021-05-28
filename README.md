@@ -11,6 +11,15 @@
  ```Shell
 pip install -r requirements.txt
 ```
+## 3. Analyse dataset
+- Open file: Analyse_data.ipynb
+- Function ***Histogram()*** to draw the data's histogram. See below chart:
+  <img src="./images/HistogramPatient_0.png" alt="drawing" width="500"/>
+  
+- Function ***Information*** to log the tumor information (size of tumor in whole image)
+- Function ***PixelRatio*** to draw the ratio chart between tumor and back ground. See below chart:
+ <img src="./images/PixelRatio_data4.png" alt="drawing" width="500"/>
+
 
 ## 3. Training and testing
 ### 3.1 Training
