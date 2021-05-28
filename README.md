@@ -7,14 +7,22 @@
 
 ## 2. Requirements about enviroment
 + I use python==3.7.0 and tensorfow==1.14.0.
-+ About the library, you can install all library in requirements.txt by run this command:
++ About the library, you can install all packages in requirements.txt by run this command:
+ ```Shell
+pip install -r requirements.txt
+```
 
+## 3. Training and testing
+### 3.1 Training
+### 3.2 Testing
 
+## 4. Results
 
-## 3. References
+## 5. References
 - A list of papers refer to this project:
   * [Detection-aided liver lesion segmentation using deep learning](https://arxiv.org/abs/1711.11069).
   * [Automatic Liver Lesion Segmentation Using A Deep Convolutional Neural Network Method](https://arxiv.org/abs/1704.07239).
   * [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1606.04797)
 - A list of other great sources that were sources of inspiration:
-  * [EfficientNet](https://github.com/lukemelas/EfficientNet-PyTorch)
+  * [liverseg-2017-nipsws](https://github.com/imatge-upc/liverseg-2017-nipsws)
+  * [MICCAI-LITS2017](https://github.com/assassint2017/MICCAI-LITS2017)
