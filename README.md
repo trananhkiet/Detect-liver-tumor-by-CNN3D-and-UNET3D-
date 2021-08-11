@@ -5,6 +5,9 @@
 + Dataset: Liver tumor Segmentation Challenge (LiTS) contain 131 contrast-enhanced CT images provided by hospital around the world. If you'd like to download it, you can find in this link: https://competitions.codalab.org/competitions/17094
 + Used models: CNN3D and UNet3D (3D mean using convolution 3D (3x3x3), max pooling 3D (3x3x3),...)
 
++ Update for readme_brand
+
+
 ## 2. Requirements about enviroment
 + I use python==3.7.0 and tensorfow==1.14.0.
 + About the library, you can install all packages in requirements.txt by run this command:
