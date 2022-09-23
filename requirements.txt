@@ -7,7 +7,7 @@ scikit-image==0.15
 tensorflow==1.14.0
 matplotlib==3.0.3
 keras==2.3.1
-protobuf==3.7.1
+protobuf==3.18.3
 opencv-python==3.4.4.19
 h5py==2.9.0
 pandas==1.0.1
